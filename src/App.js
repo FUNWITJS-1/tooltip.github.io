@@ -24,7 +24,7 @@ class Tooltip extends React.Component{
     return(
       <span className='tooltip'
             onMouseLeave={this.hideTooltip}>
-        {this.state.displayTooltip && <div className={'tooltip-bubble tooltip-${position}'}>
+        {this.state.displayTooltip && <div className={`tooltip-bubble tooltip-${position}`}>
           <div className='tooltip-message'>{message}
           </div>
         </div>
@@ -41,7 +41,12 @@ class App extends React.Component{
   render() {
     return(
         <div className="contianer">
+    
+          <p> Here is a <Tooltip message={'Hello, I am a super cool tooltip, by default it shows at bottom'} position={'bottom'}>tooltip</Tooltip> on bottom.</p>
           <p> Here is a <Tooltip message={'Hello, I am a super cool tooltip'} position={'top'}>tooltip</Tooltip> on top.</p>
+          <p> Here is a <Tooltip message={'Hello, I am a super cool tooltip'} position={'left'}>tooltip</Tooltip> on left.</p>
+          <p> Here is a <Tooltip message={'Hello, I am a super cool tooltip'} position={'right'}>tooltip</Tooltip> on right.</p>
+          
         </div>
     )
 
