@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/FUNWITJS-1/tooltip.github.io.git/static/css/main.69df923b.chunk.css",
+    "main.js": "/FUNWITJS-1/tooltip.github.io.git/static/js/main.71de66c2.chunk.js",
+    "main.js.map": "/FUNWITJS-1/tooltip.github.io.git/static/js/main.71de66c2.chunk.js.map",
+    "runtime-main.js": "/FUNWITJS-1/tooltip.github.io.git/static/js/runtime-main.e8446528.js",
+    "runtime-main.js.map": "/FUNWITJS-1/tooltip.github.io.git/static/js/runtime-main.e8446528.js.map",
+    "static/js/2.76775c1a.chunk.js": "/FUNWITJS-1/tooltip.github.io.git/static/js/2.76775c1a.chunk.js",
+    "static/js/2.76775c1a.chunk.js.map": "/FUNWITJS-1/tooltip.github.io.git/static/js/2.76775c1a.chunk.js.map",
+    "index.html": "/FUNWITJS-1/tooltip.github.io.git/index.html",
+    "precache-manifest.b838e9e9ce62134ed045b33f2f851df8.js": "/FUNWITJS-1/tooltip.github.io.git/precache-manifest.b838e9e9ce62134ed045b33f2f851df8.js",
+    "service-worker.js": "/FUNWITJS-1/tooltip.github.io.git/service-worker.js",
+    "static/css/main.69df923b.chunk.css.map": "/FUNWITJS-1/tooltip.github.io.git/static/css/main.69df923b.chunk.css.map",
+    "static/js/2.76775c1a.chunk.js.LICENSE.txt": "/FUNWITJS-1/tooltip.github.io.git/static/js/2.76775c1a.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/FUNWITJS-1/tooltip.github.io.git/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e8446528.js",
+    "static/js/2.76775c1a.chunk.js",
+    "static/css/main.69df923b.chunk.css",
+    "static/js/main.71de66c2.chunk.js"
+  ]
+}
